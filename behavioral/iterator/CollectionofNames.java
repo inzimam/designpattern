@@ -6,9 +6,9 @@ public class CollectionofNames implements Container {
 
     public int age[] = {26, 25, 24, 25, 23};
 
-    public String address[] = {"New Delhi", "Gaziabad", "Rishi Kumar", "Rahul Mehta", "Hemant Mishra"};
+    public String address[] = {"Master", "New Delhi", "Gaziabad", "Rishi Kumar", "Rahul Mehta", "Hemant Mishra"};
 
-    public String designation[] = {"Java Programmer and Content Writer", "CEO", "Programmer and Web Designer", "Manager", ".Net Trainer"};
+    public String designation[] = {"Master", "Java Programmer and Content Writer", "CEO", "Programmer and Web Designer", "Manager", ".Net Trainer"};
 
 
     @Override

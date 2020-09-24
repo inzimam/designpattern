@@ -2,7 +2,7 @@ package behavioral.iterator;
 
 public class CollectionofNames implements Container {
 
-    public String name[] = {"Ashwani Rajput", "Soono Jaiswal", "Rishi Kumar", "Rahul Mehta", "Hemant Mishra"};
+    public String name[] = {"Master","Ashwani Rajput", "Soono Jaiswal", "Rishi Kumar", "Rahul Mehta", "Hemant Mishra"};
 
     public int age[] = {26, 25, 24, 25, 23};
 
